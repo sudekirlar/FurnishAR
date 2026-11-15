@@ -63,4 +63,3 @@ A device with ARCore Depth API support is needed for occlusion.
 - Unity AR Mobile template
 - [Kenney Furniture Kit](https://kenney.nl) (CC0), used in the first version
 - 3D models from [Poly Haven](https://polyhaven.com) (CC0)
-- Parts of the code were developed with the help of an AI assistant. All features were tested and tuned on device.
