@@ -59,6 +59,10 @@ public class ProductInfo : MonoBehaviour
             if (filter.sharedMesh == null)
                 continue;
 
+            var renderer = filter.GetComponent<Renderer>();
+            if (renderer == null || !renderer.enabled)
+                continue;
+
             var b = filter.sharedMesh.bounds;
             for (int i = 0; i < 8; i++)
             {
