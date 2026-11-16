@@ -3,6 +3,9 @@
 A vintage furniture store app in AR, made for the CEN451 Mixed Reality course (Fall 2026).
 The project was started from the Furnish AR example of the freeCodeCamp AR Foundation course and was extended after that.
 
+![FurnishAR demo](demo.jpg)
+*Outdoor test on a Samsung Galaxy S25 FE with ARCore light estimation, floor shadows and depth occlusion enabled.*
+
 ## Features
 
 - Furniture is picked from a catalog and placed on the floor with a preview.
